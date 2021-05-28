@@ -20,7 +20,10 @@ Version = V1.0
 
 # WIKI SECITON
 
-## !. Use this line in your client script to export NativeUI functions : ```LUA local NativeUI = exports.NativeUI ```
+## !. Use this line in your client script to export NativeUI functions : 
+```LUA 
+local NativeUI = exports.NativeUI 
+```
 
 ### - functions : 
 > CreatePool

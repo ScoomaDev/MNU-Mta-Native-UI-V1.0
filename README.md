@@ -77,4 +77,4 @@ int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,
 
  ![Opera Snapshot_2021-05-28_192354_www google com - Copy (3)](https://user-images.githubusercontent.com/80770027/120035279-395a2080-bff6-11eb-8be6-b0f0590c1c5e.png)
  
-- **Return** : id of the window
+- **Return** : id of the tab

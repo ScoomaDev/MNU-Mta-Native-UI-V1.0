@@ -23,8 +23,7 @@ Version = V1.0
 ## !. Use this line in your client script to export NativeUI functions : local NativeUI = exports.NativeUI
 
 ### - functions : 
-
-.CreatePool
+> CreatePool
 
 ``` lua
 int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )

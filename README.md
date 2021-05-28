@@ -37,9 +37,12 @@ int CreatePool(string WindowTitle, string WindowDescription [, string background
 
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy (2) - Copy](https://user-images.githubusercontent.com/80770027/120030727-b9c95300-bfef-11eb-8179-5a47195758d5.png)
 
-- **Window Description ** : will be showing ender the title
+- **Window Description** : will be showing ender the title
 
 
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy (2)](https://user-images.githubusercontent.com/80770027/120030906-f2692c80-bfef-11eb-959e-c98237f0415b.png)
 
 
+- ** background file : the path of the background image ("none" for hide it ot false for use the original)
+
+![Opera Snapshot_2021-05-28_192354_www google com](https://user-images.githubusercontent.com/80770027/120031428-b2567980-bff0-11eb-93fa-328c0618473f.png)

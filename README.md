@@ -24,7 +24,12 @@ Version = V1.0
 
 ### - functions : 
 
-1.CreatePool
+.CreatePool
+
+``` lua
+int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick)
+
+```
 
 
 

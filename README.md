@@ -60,5 +60,5 @@ int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,
 
 - **tabType** : type of the tab
 
-|type||image|
-|button||image|
+|type|---|image|
+|button|---|image|

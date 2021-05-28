@@ -33,8 +33,7 @@ int CreatePool(string WindowTitle, string WindowDescription [, string background
 
 ```
 - **WindowTitle** : the text that will showing in the window header 
-![Uploading Opera Snapshot_2021-05-28_192354_www.google.com - Copy (2) - Copy.png…]()
-
+![Opera Snapshot_2021-05-28_192354_www google com - Copy (2) - Copy](https://user-images.githubusercontent.com/80770027/120030727-b9c95300-bfef-11eb-8179-5a47195758d5.png)
 
 
 

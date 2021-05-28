@@ -31,11 +31,12 @@ local NativeUI = exports.NativeUI
 ``` lua
 int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )
 
-- **WindowTitle** : the text that will showing in the window header 
-![Uploading image.png…]()
-
-
 ```
+- **WindowTitle** : the text that will showing in the window header 
+![Opera Snapshot_2021-05-28_192354_www google com - Copy (2) - Copy](https://user-images.githubusercontent.com/80770027/120030468-6eaf4000-bfef-11eb-9927-cac95c4808e9.png)
+
+
+
 
 
 

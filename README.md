@@ -70,3 +70,10 @@ int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,
 
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy](https://user-images.githubusercontent.com/80770027/120034554-2266fe80-bff5-11eb-9b0d-cddef9230e63.png)
 
+
+- **tab event** : a event attached to tab , you need this in eventHandler
+
+- **itemsTable** : [ only in "select" type ] , table of select items exemple : {"scooma", "ali", "mmg", 10, 50,10.5,false,true,nil}
+
+ ![Opera Snapshot_2021-05-28_192354_www google com - Copy (3)](https://user-images.githubusercontent.com/80770027/120035279-395a2080-bff6-11eb-8be6-b0f0590c1c5e.png)
+ 

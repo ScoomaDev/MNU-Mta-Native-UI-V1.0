@@ -32,10 +32,12 @@ local NativeUI = exports.NativeUI
 int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )
 
 ```
-- **WindowTitle** : the text that will showing in the window header 
+- **WindowTitle** : the text that will be showing in the window header 
 
 
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy (2) - Copy](https://user-images.githubusercontent.com/80770027/120030727-b9c95300-bfef-11eb-8179-5a47195758d5.png)
+
+- **Window Description ** : will be showing ender the title
 
 
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy (2)](https://user-images.githubusercontent.com/80770027/120030906-f2692c80-bfef-11eb-959e-c98237f0415b.png)

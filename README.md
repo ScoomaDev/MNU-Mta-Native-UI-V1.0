@@ -43,6 +43,8 @@ int CreatePool(string WindowTitle, string WindowDescription [, string background
 ![Opera Snapshot_2021-05-28_192354_www google com - Copy (2)](https://user-images.githubusercontent.com/80770027/120030906-f2692c80-bfef-11eb-959e-c98237f0415b.png)
 
 
-- ** background file : the path of the background image ("none" for hide it ot false for use the original)
+- **background file** : the path of the background image ("none" for hide it ot false for use the original)
 
 ![Opera Snapshot_2021-05-28_192354_www google com](https://user-images.githubusercontent.com/80770027/120031428-b2567980-bff0-11eb-93fa-328c0618473f.png)
+
+- **use backspace button : on player click the [backspace] thw window will be closed 

@@ -31,7 +31,9 @@ local NativeUI = exports.NativeUI
 ``` lua
 int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )
 
-- **WindowTitle** : the text that will showing in the window header
+- **WindowTitle** : the text that will showing in the window header 
+![Uploading image.png…]()
+
 
 ```
 

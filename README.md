@@ -55,3 +55,10 @@ int CreatePool(string WindowTitle, string WindowDescription [, string background
 ``` lua
 int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,table itemsTable] )
 ```
+
+- **parentWindowID** : id of the parent window 
+
+- **tabType** : type of the tab
+
+|type||image|
+|button||image|

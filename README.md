@@ -26,7 +26,7 @@ local NativeUI = exports.NativeUI
 ```
 
 ### - functions : 
-#>CreatePool
+# >CreatePool
 
 ``` lua
 int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )
@@ -50,7 +50,7 @@ int CreatePool(string WindowTitle, string WindowDescription [, string background
 - **use backspace button** : on player click the [backspace] thw window will be closed 
 - **return** the window's id 
 
-#>addTab
+# >addTab
 
 ``` lua
 int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,table itemsTable] )

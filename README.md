@@ -60,5 +60,8 @@ int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,
 
 - **tabType** : type of the tab
 
-| Type | Image |
+| Type | Function |
 | --- | --- |
+| "button" | normal native button |
+| "check" | check box button yes / no |
+| "select" | a groupe of items : < item > | 

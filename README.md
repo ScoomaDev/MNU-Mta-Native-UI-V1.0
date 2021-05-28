@@ -65,3 +65,6 @@ int addTab(int parentWindowID ,string tabType, string tabText, string tabEvent[,
 | "button" | normal native button |
 | "check" | check box button yes . no |
 | "select" | a groupe of items : < item > | 
+
+- **tabText** : tab text ![Opera Snapshot_2021-05-28_192354_www google com - Copy](https://user-images.githubusercontent.com/80770027/120034554-2266fe80-bff5-11eb-9b0d-cddef9230e63.png)
+

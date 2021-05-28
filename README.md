@@ -10,11 +10,19 @@
 
 # MNU-Mta-Native-UI-V1.0
 
-Created By ScoomaAli : https://discord.gg/9bcuWJEnwd
+Created By [ScoomaAli](https://discord.gg/9bcuWJEnwd)
 
 Idea From : FiveM
 
 Game : Multi Theft Auto San andreas (MTA SA)
 
 Version = V1.0
+
+------------------------------------------------- WIKI -----------------------------------------------------------------
+
+!. Use this line in your client script to export NativeUI functions : local NativeUI = exports.NativeUI
+
+- functions : 
+
+1.CreatePool
 

@@ -27,7 +27,7 @@ Version = V1.0
 .CreatePool
 
 ``` lua
-int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick)
+int CreatePool(string WindowTitle, string WindowDescription [, string backgroundFile,bool useBackSpaceClick] )
 
 ```
 

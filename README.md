@@ -18,11 +18,13 @@ Game : Multi Theft Auto San andreas (MTA SA)
 
 Version = V1.0
 
-# ------------------------------------------------- WIKI -----------------------------------------------------------------
+# WIKI SECITON
 
 ## !. Use this line in your client script to export NativeUI functions : local NativeUI = exports.NativeUI
 
 ### - functions : 
 
 1.CreatePool
+
+
 

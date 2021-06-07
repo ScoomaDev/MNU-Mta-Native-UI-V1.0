@@ -124,6 +124,15 @@ currentSelect : selected value from the select table
 
 ``` lua
 
+# >NativeUI.onCheckChange (type "select")
+
+``` lua
+source : localPlayer
+currentUse : houvred tab
+currentBool : is checked or unchecked
+
+``` lua
+
 
 
 

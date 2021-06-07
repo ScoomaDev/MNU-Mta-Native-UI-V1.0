@@ -91,10 +91,10 @@ bool DeletePool(int windowID)
 # >NativeUI.onButtonEnter (type "button")
 -params 
 
-`` c#
+``` c#
 table window : table of all source window infos
 table tab : table of current Tab infos
-``
+```
 
 
 

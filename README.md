@@ -89,7 +89,7 @@ bool DeletePool(int windowID)
 # *Events* 
 
 # >NativeUI.onButtonEnter (type "button")
-## params 
+
 
 ``` lua
 source : localPlayer
@@ -124,7 +124,7 @@ currentSelect : selected value from the select table
 
 ``` lua
 
-# >NativeUI.onCheckChange (type "select")
+# >NativeUI.onCheckChange (type "check")
 
 ``` lua
 source : localPlayer
@@ -134,6 +134,23 @@ currentBool : is checked or unchecked
 ``` lua
 
 
+# >NativeUI.onCheckEnter (type "check")
+
+
+``` lua
+source : localPlayer
+table window : table of all source window infos
+table tab : table of current Tab infos
+```
+
+# >NativeUI.onSelectEnter (type "select")
+
+
+``` lua
+source : localPlayer
+table window : table of all source window infos
+table tab : table of current Tab infos
+```
 
 
 

@@ -89,13 +89,40 @@ bool DeletePool(int windowID)
 # *Events* 
 
 # >NativeUI.onButtonEnter (type "button")
--params 
+## params 
 
-``` c#
+``` lua
+source : localPlayer
 table window : table of all source window infos
 table tab : table of current Tab infos
 ```
 
+# >NativeUI.onCheckChange (type "check")
+
+``` lua
+source : localPlayer
+table window : table of all source window infos
+table tab : table of current Tab infos
+```
+
+# >NativeUI.onWindowClose 
+
+
+``` lua
+source : localPlayer
+table window : table of all source window infos
+
+```
+
+
+# >NativeUI.onSelectChange (type "select")
+
+``` lua
+source : localPlayer
+currentUse : houvred tab
+currentSelect : selected value from the select table
+
+``` lua
 
 
 

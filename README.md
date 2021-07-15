@@ -152,5 +152,13 @@ table window : table of all source window infos
 table tab : table of current Tab infos
 ```
 
+- # V2.0 , What is new
+
+-  Tab Description
+
+![image](https://user-images.githubusercontent.com/80770027/125865893-161a91c4-86a2-4007-9dd9-bf6facdc6b01.png)
+
+
+- Limit Visible rows 
 
 
